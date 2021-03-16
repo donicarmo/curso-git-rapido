@@ -1,0 +1,6 @@
+cd pasta do projeto
+
+git init
+
+git status
+
