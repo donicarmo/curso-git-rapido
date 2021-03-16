@@ -1,6 +1,19 @@
+github: usuario: donicarmo
+          senha: Carol2025
+
+
 cd pasta do projeto
 
 git init
 
 git status
+
+git add .
+
+git commit -m " Commit inicial "
+
+
+git remote add origin https://github.com/donicarmo/curso-git-rapido.git
+
+git push -u origin master
 
